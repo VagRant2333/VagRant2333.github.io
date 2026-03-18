@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://VagRant2333.github.io/sitemap.xml
+Sitemap: https://vagrant2333.github.io/sitemap.xml
