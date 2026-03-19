@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Update and Internship Search
-date: 2025-08
+date: 2025-08-01
 inline: true
 related_posts: false
 ---
