@@ -31,7 +31,15 @@ I am Shenling Qiu (QIU SHENLING), an undergraduate student in the Honor Class of
 
 My recent work focuses on embodied AI and vision-language-action models, including model reproduction, training recipe analysis, and real-robot deployment.
 
+I am currently looking for a summer research internship related to embodied AI, robot learning, or multimodal policy learning.
+
 You can find more details on the [CV page](/cv/).
+
+## Research Highlights
+
+- Reproduced locomotion systems including ASAP and PBHC, and deployed on Unitree G1.
+- Fine-tuned GR00T N1 and deployed on Fourier GR1.
+- Designed and executed VLA experiments from training recipes to UR5e real-robot evaluation.
 
 ## Talks
 

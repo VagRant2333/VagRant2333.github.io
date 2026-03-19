@@ -11,6 +11,8 @@ cv:
   social_networks:
     - network: GitHub
       username: VagRant2333
+    - network: LinkedIn
+      username: shenling-qiu-b666793b8
 
   address:
     city: Shanghai

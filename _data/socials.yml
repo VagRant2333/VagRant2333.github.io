@@ -4,18 +4,19 @@
 cv_pdf: /assets/pdf/shenling_qiu_cv_26_03_20.pdf # path to your CV PDF file
 email: slqiu24@m.fudan.edu.cn # your email address
 github_username: VagRant2333
+linkedin_username: shenling-qiu-b666793b8
 rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 blog_zhihu: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://static.zhihu.com/heifetz/favicon.ico # can be png, svg, jpg
-  title: Zhihu
+  title: Zhihu blog
   url: https://zhuanlan.zhihu.com/p/2017367012729438669
 talk_wechat_1:
   logo: /assets/img/talk1.jpeg
-  title: WeChat Talk 1
+  title: A share of study experience to freshman class
   url: https://mp.weixin.qq.com/s/-KHed5O1YuPji4l-pj_mIw
 talk_wechat_2:
   logo: /assets/img/talk2.jpeg
-  title: WeChat Talk 2
+  title: A share of Embodied AI development
   url: https://mp.weixin.qq.com/s/L6qsvOBmmnlkDafuC6zOLg
