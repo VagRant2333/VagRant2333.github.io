@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Selected projects from my research and engineering work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -386,57 +372,22 @@ ninja.data = [{
             },},{id: "news-recent-talks-and-blog-updates-are-now-available-on-my-homepage-and-social-links",
           title: 'Recent talks and blog updates are now available on my homepage and social...',
           description: "",
-          section: "News",},{id: "news-my-current-research-focuses-on-training-recipes-and-deployment-of-vision-language-action-models-i-am-open-to-summer-internship-opportunities-related-to-embodied-intelligence-robot-learning-and-multimodal-policy-learning",
-          title: 'My current research focuses on training recipes and deployment of vision-language-action models. I...',
+          section: "News",},{id: "news-i-joined-fudan-natural-language-processing-lab-as-a-research-intern-in-embodied-ai-advised-by-prof-xipeng-qiu-and-msc-shiduo-zhang-my-current-research-focuses-on-training-recipes-and-deployment-of-vision-language-action-models-i-am-open-to-summer-internship-opportunities-related-to-embodied-intelligence-robot-learning-and-multimodal-policy-learning",
+          title: 'I joined Fudan Natural Language Processing Lab as a research intern in Embodied...',
           description: "",
           section: "News",},{id: "news-i-am-actively-looking-for-a-summer-research-internship-in-embodied-ai-robot-learning",
           title: 'I am actively looking for a summer research internship in Embodied AI /...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-embodied-intelligent-robot-system",
+          title: 'Embodied Intelligent Robot System',
+          description: "Standing and walking policy learning for Unitree Go2 with sim-to-real deployment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-wheeled-single-arm-robotic-assistant-with-tool-calling",
+          title: 'Wheeled Single-Arm Robotic Assistant with Tool Calling',
+          description: "Preliminary robotic assistant system integrating embodied control and tool-calling interaction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
