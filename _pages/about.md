@@ -22,29 +22,34 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Shenling Qiu (QIU SHENLING), an undergraduate student in the Honor Class of Computer Science at Fudan University.
+I am Shenling Qiu (邱深凌), an undergraduate student in the Honor Class of Computer Science at Fudan University.
 
-My recent work focuses on embodied AI and vision-language-action models, including model reproduction, training recipe analysis, and real-robot deployment.
+My primary research interest lies in **Embodied AI**, with a particular focus on how intelligent agents can acquire robust perception, reasoning, and control for interaction in the physical world. I am especially interested in the emerging intersection of **vision-language-action models, robot learning, and world models** for real-world deployment.
 
-I am currently looking for a summer research internship related to embodied AI, robot learning, or multimodal policy learning.
+More broadly, I am fascinated by a long-term question: **how can we build embodied systems that do not merely imitate behaviors, but develop transferable competence for open-ended interaction and long-term problem solving?** I see embodied intelligence not only as a robotics problem, but also as a concrete path toward more grounded, adaptive, and general-purpose AI systems.
+
+My recent work has centered on reproducing and analyzing embodied learning systems, understanding the role of training design in downstream performance, and bridging the gap between large-scale model training and real-robot deployment. I am particularly drawn to research that combines **empirical rigor, system building, and physical experimentation**, where ideas are tested not only in simulation or benchmarks, but also through real interaction with the world.
+
+I also believe that progress in embodied AI carries an important **social responsibility**. If intelligent systems are to enter homes, workplaces, healthcare, and public environments, they should be designed not only for stronger capability, but also for **reliability, safety, and meaningful usefulness to people**. I hope to contribute to research that makes embodied agents more dependable, more accessible, and ultimately more beneficial in real-world settings, especially in scenarios where intelligent assistance can reduce repetitive labor, extend human capability, and improve quality of life.
+
+I am currently looking for a **summer research internship** related to embodied AI, robot learning, or multimodal policy learning. In the longer term, I hope to contribute to the development of embodied agents that are more **generalizable, reliable, and practically useful**, and to pursue research that connects fundamental questions about intelligence with deployable robotic systems.
+
 
 You can find more details on the [CV page](/cv/).
 
 ## Research Highlights
 
-- Reproduced locomotion systems including ASAP and PBHC, and deployed on Unitree G1.
-- Fine-tuned GR00T N1 and deployed on Fourier GR1.
-- Designed and executed VLA experiments from training recipes to UR5e real-robot evaluation.
+- In preparation for CoRL 2026!
 
 ## Talks
 
-- [Talk 1 (WeChat)](https://mp.weixin.qq.com/s/-KHed5O1YuPji4l-pj_mIw)
-- [Talk 2 (WeChat)](https://mp.weixin.qq.com/s/L6qsvOBmmnlkDafuC6zOLg)
+- Gave a talk at the Experience Sharing Session to Freshman in Nov, 2025[link](https://mp.weixin.qq.com/s/-KHed5O1YuPji4l-pj_mIw)
+- Gave a talk at the development of Embodied AI in Oct, 2025[link](https://mp.weixin.qq.com/s/L6qsvOBmmnlkDafuC6zOLg)
 
 ## Blog
 
