@@ -6,7 +6,7 @@ subtitle: Undergraduate Student in Computer Science and Artificial Intelligence 
 
 profile:
   align: right
-  image: photo.png
+  image: photo_v1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Computer Science and Artificial Intelligence, Fudan University</p>
